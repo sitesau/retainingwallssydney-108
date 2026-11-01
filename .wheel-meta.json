@@ -1,0 +1,22 @@
+{
+  "wheel_id": 626,
+  "structure": "umbrella",
+  "slug": "retainingwallssydney-108",
+  "project": "retaining-wall-builders-sydney-checklist-6c3f9ebc20fa02c7374a11",
+  "parent_t1_ref": "retainingwallssydney-154",
+  "node_role": "feeder",
+  "money_target": "retainingwallssydney.net.au",
+  "primary_kw": "retaining wall builders sydney checklist",
+  "intended_url": "http://retaining-wall-builders-sydney-checklist-6c3f9ebc20fa02c7374a11.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "b17b95b9629d28d5",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-builders-sydney-suburb-guide-14367d5a71f7b57b874/",
+      "anchor": "Retaining Wall Builders Sydney Suburb Guide: Suburb Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
